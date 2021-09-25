@@ -112,8 +112,6 @@ namespace IAnimal
                 animal.Speak();
             }
             Console.ReadLine();
-
-
         }
     }
 }
